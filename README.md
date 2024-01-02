@@ -1,2 +1,1 @@
-#check
-This is just for sake the of practice
+This is just for sake the of practice.
